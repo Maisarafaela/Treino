@@ -1,0 +1,10 @@
+programa {
+funcao inicio () {
+real nota, frequencia
+escreva ("Nota: ")
+leia (nota)
+escreva ("frequencia")
+leia (frequencia)
+se (nota >7 e frequencia >70) {
+escreva ("Aprovado.")
+}
